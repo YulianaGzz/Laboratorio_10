@@ -3,7 +3,7 @@
 ## Objetivo
 Aplicar el tema de **programación concurrente en Java** creando hilos con `Runnable` y `Thread`, comprender el ciclo de vida de un hilo, usar `synchronized` para proteger recursos compartidos y simular un torneo RPG con combates que ocurren de manera simultánea. Además, demostrar el problema de las *race conditions* y cómo resolverlo mediante sincronización.
 
-## 📖 Desarrollo
+## Desarrollo
 En este laboratorio se introdujeron conceptos nuevos y fundamentales:
 - **Programación concurrente**: ejecución de múltiples procesos en paralelo mediante hilos.  
 - **Interfaz `Runnable` vs clase `Thread`**: dos formas de crear hilos; `Runnable` ofrece mayor flexibilidad y separación de lógica.  
